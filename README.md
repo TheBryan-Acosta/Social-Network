@@ -12,6 +12,10 @@ back end for a social media app, with crud routes for users, thoughts, and react
 
 ## **Examples**
 
+
+https://user-images.githubusercontent.com/82281061/156946198-d6c7fcca-7cba-44a0-89c1-60e85564d466.mp4
+
+
 ## **Installation**
 
 git clone ----> npm i -----> npm run start
