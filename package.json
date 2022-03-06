@@ -1,0 +1,25 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBryan-Acosta/Social-network.git"
+  },
+  "author": "Bryan Acosta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheBryan-Acosta/Social-network/issues"
+  },
+  "homepage": "https://github.com/TheBryan-Acosta/Social-network#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4"
+  }
+}
